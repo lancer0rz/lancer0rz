@@ -4,7 +4,7 @@ I'm Lancer0rz,AKA l4n.
 
 focus on reverse engineering and Android security。
 
-CTFer, member of UKFC,V&N.
+CTFer, member of W&M,UKFC.
 
 
 
