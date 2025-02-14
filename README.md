@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Lancer0rz,AKA l4n. 
+l4n. 
 
 focus on reverse engineering and Android security。
 
