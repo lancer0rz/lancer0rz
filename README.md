@@ -8,7 +8,7 @@ CTFer, member of W&M,UKFC.
 
 
 
-My websites:
+My blog:
 
 https://lancerorz.top
 
