@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-l4n. 
+l4n AKA lancer AKA l4nc3r. 
 
-focus on reverse engineering and Android security。
+Focus on Reverse Engineering and Android Security。
 
 CTFer, member of W&M,UKFC.
 
@@ -10,7 +10,7 @@ CTFer, member of W&M,UKFC.
 
 My blog:
 
-https://lancerorz.top
+https://l4n.top
 
 Contact me: 
 
