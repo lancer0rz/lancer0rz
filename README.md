@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-l4n aka. lancer aka. l4nc3r. 
+l4n
 
 Focus on Reverse Engineering and Android Security。
 
